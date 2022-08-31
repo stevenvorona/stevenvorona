@@ -13,6 +13,7 @@
 - Looking for a software engineering or adjacent role upon my graduation in May 2023 (please email me at stevenvorona@gmail.com for more information).
 - Working as a pro-bono tech consultant for Lil Bill's Mobile Bike Services (managing online presence, including site/social media for local bike shop in South LA).
 - Serving as a partner and on-campus director for Azure Ventures Group (student-focused lean VC fund).
+- Studying for multiple AWS Certifications.
 - Getting better at cooking by watching lots of Masterchef!
 
 ## Other Things I've Worked On
