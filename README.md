@@ -1,7 +1,7 @@
 # Hi! I'm Steven Vorona
 
 ## About Me
-- I'm a senior computer science (CSCI) major at USC looking to grow through new projects and opportunities.
+- I'm a senior computer science (CSCI) major at USC looking to grow through new projects and opportunities. I currently live in LA but am originally from New Jersey and plan to move to New York after graduating.
 
 ## Past Professional Experience
 - Software Development Intern at AWS
