@@ -1,19 +1,22 @@
 # Hi! I'm Steven Vorona
 
 ## About Me
-- I'm a senior computer science (CSCI) major at USC looking to grow through new projects and opportunities.
-- I am looking for a software engineering or adjacent role upon my graduation (May 2023).
+- I'm a senior computer science (CSCI) major at USC looking to grow through new projects and opportunities
 
-## Professional Experience
-- Fmr. Software Development Intern at AWS
-- Fmr. Technology Analyst at Morgan Stanley
-- Fmr. Software Engineering Intern at Commvault
+## What I'm doing now.
+- I am looking for a software engineering or adjacent role upon my graduation in May 2023 (please email me at stevenvorona@gmail.com for more information)
+- Pro-bono tech consultant for Lil Bill's Mobile Bike Services (managing online presence, including site/social media for local bike shop in South LA)
+- Partner and On-Campus Director for Azure Ventures Group (student-focused lean VC fund)
 
-## Other Experience
-- Pro-bono tech consultant for Lil Bill's Mobile Bike Services (managing online presence, including site/social media for local bike shop).
-- Partner and On-Campus Director for Azure Ventures Group (student-focused lean VC fund).
-- Fmr. Director of Logistics at HackSC (Premiere USC Hackathon with 1k+ attendees).
-- Fmr. Developer at USC LavaLab (On-Campus Startup Incubator).
+## Past Professional Experience
+- Software Development Intern at AWS
+- Technology Analyst at Morgan Stanley
+- Software Engineering Intern at Commvault
+
+## Other Things I've Worked On
+- Fmr. Director of Logistics at HackSC (Premiere USC Hackathon with 1k+ attendees)
+- Fmr. Developer at USC LavaLab (On-Campus Startup Incubator)
+- Attended around 10 hackathons to-date, and got some nice prizes and cool t-shirts along the way ;)
 
 ## Skills
 | *Type* | *Skill* |
