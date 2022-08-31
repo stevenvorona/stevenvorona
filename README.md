@@ -20,6 +20,7 @@
 - Former Director of Logistics at HackSC (Premiere USC Hackathon with 1k+ attendees).
 - Former Developer at USC LavaLab (On-Campus Startup Incubator).
 - Attended around 10 hackathons to-date, and got some nice prizes and cool t-shirts along the way ;).
+- Participated in various competitions (and won a few!) for app design, competitive programming, cybersecurity (CTFs), research, and more.
 
 ## Skills
 | *Type* | *Skill* |
