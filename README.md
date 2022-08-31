@@ -3,15 +3,17 @@
 ## About Me
 - I'm a senior computer science (CSCI) major at USC looking to grow through new projects and opportunities.
 
-## What I'm doing now.
-- I am looking for a software engineering or adjacent role upon my graduation in May 2023 (please email me at stevenvorona@gmail.com for more information).
-- Pro-bono tech consultant for Lil Bill's Mobile Bike Services (managing online presence, including site/social media for local bike shop in South LA).
-- Partner and On-Campus Director for Azure Ventures Group (student-focused lean VC fund).
-
 ## Past Professional Experience
 - Software Development Intern at AWS
 - Technology Analyst at Morgan Stanley
 - Software Engineering Intern at Commvault
+
+## What I'm Doing At The Moment
+- Finishing my degree.
+- Looking for a software engineering or adjacent role upon my graduation in May 2023 (please email me at stevenvorona@gmail.com for more information).
+- Working as a pro-bono tech consultant for Lil Bill's Mobile Bike Services (managing online presence, including site/social media for local bike shop in South LA).
+- Serving as a partner and on-campus director for Azure Ventures Group (student-focused lean VC fund).
+- Getting better at cooking and watching lots of Masterchef.
 
 ## Other Things I've Worked On
 - Former Director of Logistics at HackSC (Premiere USC Hackathon with 1k+ attendees).
